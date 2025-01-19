@@ -179,7 +179,6 @@ function setupTeamPages() {
         });
     });
     
-
     // Function to show divisions based on selected conference
     function showDivisionsForConference(conference) {
         // Clear current divisions
